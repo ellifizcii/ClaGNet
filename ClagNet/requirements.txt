@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.1
+torch>=2.0
+
+# Only needed for OpenMax (experiments/openmax_*.py); install separately where supported:
+#   pip install libmr

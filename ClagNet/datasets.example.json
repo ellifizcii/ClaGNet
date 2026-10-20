@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Li",
+    "matrix_file": "data_li.csv",
+    "labels_file": "labs_li.csv"
+  },
+  {
+    "name": "Zeisel",
+    "matrix_file": "data_zeisel.csv",
+    "labels_file": "labs_zeisel.csv"
+  },
+  {
+    "name": "Tasic",
+    "matrix_file": "data_tasic.csv",
+    "labels_file": "labs_tasic.csv"
+  },
+  {
+    "name": "Kolodziejczyk",
+    "matrix_file": "data_kolodziejczyk.csv",
+    "labels_file": "labs_kolodziejczyk.csv"
+  },
+  {
+    "name": "Pollen",
+    "matrix_file": "data_pollen.csv",
+    "labels_file": "labs_pollen.csv"
+  },
+  {
+    "name": "Darmanis",
+    "matrix_file": "data_darmanis.csv",
+    "labels_file": "labs_darmanis.csv"
+  },
+  {
+    "name": "BaronM1",
+    "matrix_file": "data_baronm1.csv",
+    "labels_file": "labs_baronm1.csv"
+  },
+  {
+    "name": "Xin",
+    "matrix_file": "data_xin.csv",
+    "labels_file": "labs_xin.csv"
+  }
+]
